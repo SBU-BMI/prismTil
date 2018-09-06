@@ -1,5 +1,6 @@
 var viewer = OpenSeadragon({
     id: 'openseadragon1',
+    prefixUrl: "/prismTil/images/",
     showNavigator:  true,
      tileSources:   {
         Image: {
