@@ -18,5 +18,5 @@ var viewer = OpenSeadragon({
     }
 });
 
-//const annotations = new OpenSeadragon.Annotations({ viewer });
+//const annotations = new OpenSeadragon.Annotations({ viewer }); //not required
 viewer.initializeAnnotations();
