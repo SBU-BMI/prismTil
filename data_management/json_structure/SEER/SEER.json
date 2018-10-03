@@ -5,44 +5,44 @@
 	"prediction-step-output": {
 		"color-WSI-multires": [
 			{
-				"x-axis": 1,
-				"y-axis": 1,
-				"bin_value": 0,
-				"bin_value": 0,
-				"real_value": 0
+				"coor_x": 1,
+				"coor_y": 1,
+				"whiteness": 0,
+				"blackness": 0,
+				"redness": 0
 			},
 			{
-				"x-axis": 1,
-				"y-axis": 2,
-				"bin_value": 0,
-				"bin_value": 0,
-				"real_value": 0
+				"coor_x": 1,
+				"coor_y": 2,
+				"whiteness": 0,
+				"blackness": 0,
+				"redness": 0
 			}
 		],
 		"prediction-WSI-multires": [
 			{
-				"x-axis": 99,
-				"y-axis": 99,
+				"patch_index_x": 99,
+				"patch_index_y": 99,
 				"bin_value": 0,
 				"real_value": 0.00722075533122
 			},
 			{
-				"x-axis": 99,
-				"y-axis": 296,
+				"patch_index_x": 99,
+				"patch_index_y": 296,
 				"bin_value": 0,
 				"real_value": 0.00555958598852
 			}
 		],
 		"prediction-WSI-multires.low_res": [
 			{
-				"x-axis": 392,
-				"y-axis": 392,
+				"patch_index_x": 392,
+				"patch_index_y": 392,
 				"bin_value": 0,
 				"real_value": 0.004871
 			},
 			{
-				"x-axis": 392,
-				"y-axis": 1176,
+				"patch_index_x": 392,
+				"patch_index_y": 1176,
 				"bin_value": 0,
 				"real_value": 0.005726
 			}
