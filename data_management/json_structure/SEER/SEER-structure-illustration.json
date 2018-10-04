@@ -50,6 +50,11 @@
       ]
     },
     "cluster-step-output": {
+    	"WSI-multires_clusterInfo": {
+        "Slides": "N3908-HE-CROP-multires",
+        "number of data points": 363,
+        "number of clusters": 4
+      },
       "seer_totalClusterStats": [
         {
           "Slides": "N3908-HE-CROP-multires.csv",
@@ -146,11 +151,7 @@
           "Xie_Beni": 950.816375435625
         }
       ],
-      "WSI-multires_clusterInfo": {
-        "Slides": "N3908-HE-CROP-multires",
-        "number of data points": 363,
-        "number of clusters": 4
-      },
+      
       "WSI-multires_indices_ap": [
         {
           "Slides": "TCGA-05-4396-01Z-00-DX1",
